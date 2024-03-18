@@ -1,0 +1,1 @@
+import{o as r,d as s,e as a,A as o}from"./index-YS2kazAn.js";const p={__name:"Card",setup(t){return(e,l)=>(r(),s("div",o({class:"bg-white px-[5%] py-[5%] shadow-lg rounded-lg"},e.$attrs),[a(e.$slots,"default")],16))}};export{p as _};
