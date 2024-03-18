@@ -1,0 +1,1 @@
+import{r as o,o as t,c as r,a}from"./index-HpA5oPRI.js";import{_ as n}from"./_plugin-vue_export-helper-x3n3nnut.js";const c={name:"app",data(){return{loggedin:!0}}};function s(p,_,d,i,m,u){const e=o("router-view");return t(),r("div",null,[a(e)])}const v=n(c,[["render",s],["__scopeId","data-v-0506361b"]]);export{v as default};
